@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "dogsapi.origamid.dev",
+        hostname: "www.rodrigobrito.dev.br",
       },
     ],
   },

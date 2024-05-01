@@ -1,6 +1,6 @@
 "use client";
 
-import userPost from "@/actions/user.post";
+import userPost from "@/actions/user-post";
 import { useFormState, useFormStatus } from "react-dom";
 import Button from "@/components/forms/button";
 import Input from "@/components/forms/input";
